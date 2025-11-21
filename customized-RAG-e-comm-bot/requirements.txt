@@ -1,0 +1,11 @@
+langchain_google_genai
+langchain_huggingface 
+langchain-astradb
+langchain 
+datasets
+pypdf
+python-dotenv
+flask
+sentence_transformers
+
+-e .
