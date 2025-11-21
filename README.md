@@ -1,4 +1,4 @@
-# CUSTOMIZED-E-COMMERCE-CHATBOT
+# 1. CUSTOMIZED-E-COMMERCE-CHATBOT
 Welcome to the Ecommerce Chatbot project! This chatbot is designed to assist users with their online shopping experience by providing product recommendations, answering questions, and assisting with various inquiries related to the ecommerce store. This chatbot is customized on one-plus dataset from flipkart using RAG and Langchain.
 
 **Overview**
@@ -12,7 +12,7 @@ The Ecommerce Chatbot is built using Python and Flask framework. It leverages na
  * Integration with the ecommerce store's product database.
  * Ability to handle various user inquiries such as product availability, pricing, shipping information, etc.
 
-# agentic-RAG
+# 2. agentic-RAG
 
 Agentic RAG (Retrieval-Augmented Generation) is an advanced AI system architecture where an autonomous agent makes intelligent, dynamic decisions about the retrieval and generation process to answer queries effectively.
 Unlike traditional RAG systems that follow a fixed "retrieve-then-generate" pipeline, Agentic RAG employs reasoning capabilities to determine.
@@ -26,7 +26,7 @@ This project is built using:
  * FAISS Vector Store – High-performance similarity search
  * Python – Implementation & API wrappers
 
-# multimodal-RAG-System
+# 3. multimodal-RAG-System
 
 A Multimodal Retrieval-Augmented Generation (RAG) system that combines Computer Vision, Natural Language Processing, and Vector Search to build an intelligent question-answering pipeline capable of understanding both images and text.
 This project integrates:
